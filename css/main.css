@@ -2566,6 +2566,7 @@ a {
   }
   .composition__decor {
     right: inherit;
+    top: -130%;
   }
   .composition__addition-link {
     font-size: 17px;
