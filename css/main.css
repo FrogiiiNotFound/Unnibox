@@ -3325,9 +3325,11 @@ a {
   }
   .instruction__step-number {
     font-size: 12px;
+    text-align: left;
   }
   .instruction__step-about {
     font-size: 14px;
+    text-align: left;
   }
   .instruction__how-steps {
     margin-bottom: 15px;
